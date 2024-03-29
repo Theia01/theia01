@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning React 
+🔭 I’m currently working on application based on the trend #howiseeyou on React Native 
+⚡ Fun fact: I use frequently gitmoji on my repo 
+
 <!--
 **Theia01/theia01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
