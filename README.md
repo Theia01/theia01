@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔥 I’m Full Stack Javascript Developer
 - 🌱 I’m currently learning React 
 - 🔭 I’m currently working on application based on the trend #howiseeyou on React Native 
 - ⚡ Fun fact: I use frequently gitmoji on my repo 
