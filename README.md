@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there ! I'm Axelle 👋
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlhNmoya3Zhc2d4d2R0bnpjZnA4ZXY2amlneHdkNTIxZDQwMjZrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif)
 - 🔥 I’m Full Stack Javascript Developer
 - 🌱 I’m currently learning React 
-- 🔭 I’m currently working on application based on the trend #howiseeyou on React Native 
+- 🔭 I’m working on an app based on the #howiseeyou trend on React Native 
 - ⚡ Fun fact: I use frequently gitmoji on my repo 
 
 <!--
@@ -10,7 +11,20 @@
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo3Nnpodm0wNGRyNGtlb215YmljbXQ2ZHJhOXVzcW1qc3E3aGZ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif)
 ![Alt Text]()
 -->
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlhNmoya3Zhc2d4d2R0bnpjZnA4ZXY2amlneHdkNTIxZDQwMjZrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif)
+
+## My Stack
+✨ Languages 
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,node&theme=light)](https://skillicons.dev)
+
+🌌 Framework, library, bdd  
+  
+[![My Skills](https://skillicons.dev/icons?i=react,styledcomponents,vue,vuetify,nodejs,laravel,sass,tailwind,bootstrap,mongodb,mysql,netlify&perline=6&theme=light)](https://skillicons.dev)
+
+🛰️ Other  
+  
+[![My Skills](https://skillicons.dev/icons?i=notion,figma,vscode,postman,linux&theme=light)](https://skillicons.dev)
+
 <!--
 **Theia01/theia01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
