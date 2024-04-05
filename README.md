@@ -3,8 +3,8 @@
 - 🔥 I’m Full Stack Javascript Developer
 - 🌱 I’m currently learning React 
 - 🔭 I’m working on an app based on the #howiseeyou trend on React Native 
-- ⚡ Fun fact: I use frequently gitmoji on my repo 
-
+- <img align=top src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" width="26"> I'm always learning to improve my skills : https://exercism.org/profiles/Theia01
+- ⚡ Fun fact: I use frequently gitmoji on my repo
 <!--
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ0YTVwa2p4Mjk5anZsb3hzZnBxaGU0aW9kOG0xczVjb24xdmo5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVkc3g2ZnVqN3Bqc3ZrM3R3MXI3dm03dGN2dzQyeDAzajg1aGdzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif)
